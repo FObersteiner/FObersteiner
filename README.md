@@ -1,5 +1,8 @@
 ### Hello 👋 👽
 
+- some more code over [on codeberg](https://codeberg.org/FObersteiner)
+- work-related stuff on [KIT gitlab](https://gitlab.kit.edu/FObersteiner)
+
 <!--
 **FObersteiner/FObersteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
