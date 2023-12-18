@@ -1,7 +1,10 @@
 ### Hello 👋 👽
 
 - some more code over [on codeberg](https://codeberg.org/FObersteiner)
+  - [zdt](https://codeberg.org/FObersteiner/zdt) exploring datetime and timezones in Zig
 - work-related stuff on [KIT gitlab](https://gitlab.kit.edu/FObersteiner)
+  - [FAIRO](https://gitlab.kit.edu/FObersteiner/FAIROmeta/-/blob/main/science/FAIRO_Description.md) ozone monitor data processing [package](https://gitlab.kit.edu/FObersteiner/FAIROpro)
+  - [CARIBIC](https://www.caribic-atmospheric.com/) data processing [package](https://gitlab.kit.edu/FObersteiner/Caribic2dp)
 
 <!--
 **FObersteiner/FObersteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
