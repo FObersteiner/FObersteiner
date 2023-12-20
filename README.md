@@ -2,9 +2,12 @@
 
 - some more code over [on codeberg](https://codeberg.org/FObersteiner)
   - [zdt](https://codeberg.org/FObersteiner/zdt) - exploring datetime and timezones (in Zig)
+
 - work-related stuff on [KIT gitlab](https://gitlab.kit.edu/FObersteiner)
   - [fairopro](https://gitlab.kit.edu/FObersteiner/FAIROpro) - [FAIRO](https://gitlab.kit.edu/FObersteiner/FAIROmeta/-/blob/main/science/FAIRO_Description.md) ozone monitor data processing & analysis
   - [caribic2dp](https://gitlab.kit.edu/FObersteiner/Caribic2dp) - [CARIBIC](https://www.caribic-atmospheric.com/) data processing & analysis
+ 
+- on [stackoverflow](https://stackoverflow.com/users/10197418/fobersteiner)
 
 <!--
 **FObersteiner/FObersteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
